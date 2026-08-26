@@ -1,0 +1,24 @@
+1.PROJECT TITLE
+Plant Disease Image Classification Using Convolutional Neural Network (CNN)
+
+2.PROBLEM STATEMENT
+To develop a deep learning system that automatically identifies and classifies plant diseases from leaf images using image processing and a Convolutional Neural Network (CNN).
+
+3. OBJECTIVE
+To collect and explore plant leaf image data.
+To preprocess the images by resizing and normalizing pixel values.
+To identify different plant disease classes.
+To build and train a CNN model for plant disease classification.
+To evaluate the model using suitable classification metrics.
+To predict the disease of a new plant leaf image.
+
+4. AI\ML TYPE
+AI/ML: Deep Learning
+Learning Type: Supervised Learning
+Problem Type: Multiclass Classification
+Input/Features: Plant leaf image pixel values
+Target: Plant Disease Class
+Algorithm: Convolutional Neural Network (CNN)
+
+5. EXPECTED OUTCOMES
+To develop a CNN-based classification model that can predict the disease class of a new plant leaf image and evaluate its performance using Accuracy, Precision, Recall, F1-score, and Confusion Matrix.
